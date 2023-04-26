@@ -1,0 +1,16 @@
+{
+  "name": "zam_project",
+  "version": "1.0.0",
+  "description": "zam first node project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "startDev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zamamich",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
